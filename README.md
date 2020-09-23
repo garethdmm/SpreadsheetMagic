@@ -1,11 +1,13 @@
 # Spreadsheet Magic
 
 
-This is a simple add-on to Google Sheets that, given only row and column headings for a table, can fill out that table with no further input from the user using OpenAI's GPT3 artificial intelligence.
+This is a simple add-on to Google Sheets that, given only row and column headings for a table, can fill out that table with no further input from the user.
 
 ![alttext](img/gpt3-spreadsheet.gif)
 
-While there is no guarantee the tool will give accurate information, anecdotal evidence suggests that it will very often be right about numeric data, and can even give reasonable answers for headings like "the closest friends of famous scientists".
+This is done using OpenAI's [GPT3 artificial intelligence](https://openai.com/blog/openai-api/). While there is no guarantee the tool will give accurate information, anecdotal evidence suggests that it will very often be right about numeric data, and can even give reasonable answers for headings like "the closest friends of famous scientists".
+
+Access to the OpenAI API is required to use this tool.
 
 ## Simple Installation
 
