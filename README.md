@@ -1,6 +1,9 @@
 # XofY
 A simple integration of GPT3 into google sheets. This script will attempt to fill out a table automatically by inferring the desired entries from the row and column headings.
 
+![alttext](img/gpt3-spreadsheet.gif)
+
+
 ## Simple Installation
 
 1. Open a google sheet.
