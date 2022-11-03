@@ -12,9 +12,9 @@ Access to the OpenAI API is required to use this tool.
 ## Simple Installation
 
 1. Open a google sheet.
-2. Click Menu -> Tools -> Script Editor
-3. Copy the contents of Code.js into the script editor, and put your OpenAI API key in the relevant location.
-4. Click save. You may have to consent to a few authentication dialogs.
+2. Click Extensions -> Apps Script
+3. Copy the contents of Code.js into the script editor, and put your OpenAI API key in the relevant location. example var API_KEY = "sk-cccccccc";
+4. Click Deploy. Select New deployment, and fill Description,Web app(me(your email id) and who has access.  You may have to consent to a few authentication dialogs.
 5. Refresh your google sheet. You should see a new menu bar item "GPT3".
 
 
